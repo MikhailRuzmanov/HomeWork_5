@@ -16,6 +16,7 @@ public class Main {
 
 
     public static void task1 () {
+        System.out.println("Домашнее задание №5");
         System.out.println("Задача 1");
         int clientOS = 1;// Пишем код для задачи 1
         int iOS = 0;
